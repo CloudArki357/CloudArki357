@@ -22,7 +22,7 @@
   <p style="max-width: 800px; font-size: 18px; line-height: 1.6;">
     I’m an <b>Aspiring Cloud Architect</b> with a strong background in <b>Network Engineering</b>.
     I am deeply passionate about <b>Networking</b>, <b>Cloud Security</b>, and building scalable
-    <b>Cloud Infrastructure</b>.  
+    <b>Cloud Infrastructure</b>.
     My mission is to design, deploy, and automate cloud-native systems on <b>AWS</b> and <b>GCP</b> using
     <b>Terraform</b> and other Infrastructure-as-Code tools.
   </p>
@@ -38,10 +38,19 @@
 <div align="center" style="font-size: 20px; line-height: 1.8;">
 
   <!-- BADGE STYLING WRAPPER -->
- 
-  <!-- AWS SAA BADGE -->
+  <style>
+    .cert-badge {
+      width: 130px;
+      height: 130px;
+      object-fit: contain;
+      margin-bottom: 10px;
+      filter: drop-shadow(0 2px 4px rgba(0,0,0,0.25));
+    }
+  </style>
+
+  <!-- AWS SAA BADGE (JPEG) -->
   <img 
-    src="https://d1.awsstatic.com/training-and-certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_300x300.9d1f7a9d45.png"
+    src="https://i.imgur.com/8zQf0bC.jpeg"
     alt="AWS Solutions Architect Associate Badge"
     class="cert-badge"
   /><br>
@@ -50,9 +59,9 @@
 
   <br><br><br>
 
-  <!-- TERRAFORM ASSOCIATE BADGE -->
+  <!-- TERRAFORM ASSOCIATE BADGE (JPEG) -->
   <img 
-    src="https://images.ctfassets.net/5owu3y35gz1g/1mc7zkm2tpgw00RmPxd0TQ/9a1dfd3fcbaf0d0d1801f02c0f0a19c2/terraform-associate-003-badge.png"
+    src="https://i.imgur.com/fUXwDqf.jpeg"
     alt="Terraform Associate Badge"
     class="cert-badge"
   /><br>
@@ -108,4 +117,4 @@
   </a>
   <br><br>
 
- 
+  
