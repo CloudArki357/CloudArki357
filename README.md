@@ -2,7 +2,7 @@
 
   <!-- HERO / TITLE -->
   <h1 style="font-size: 40px; margin-bottom: 10px;">
-    🌥️ Cloud AI Ops | Cloud Architect | Cloud Solutions Architect
+    🌥️ Cloud AI Ops | Cloud Networking | Cloud Solutions Architect
   </h1>
 
   <h2 style="font-weight: 500; margin-top: 0;">
